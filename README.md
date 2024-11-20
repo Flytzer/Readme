@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onyxx</h1>
 <h3 align="center">Im a Hobby Developer</h3>
 
-- 🔭 I’m currently working on [NoriskClient](https://github.com/NoRiskClient/issues)
+- 🔭 I’m currently helping out [NoriskClient](https://github.com/NoRiskClient/issues)
 
 - 🌱 I’m currently learning **Rust**
 
