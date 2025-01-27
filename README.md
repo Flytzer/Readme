@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NoRiskClient](https://github.com/NoRiskClient)
 
-- 🌱 I’m currently learning **Rust, C++**
+- 🌱 I’m currently learning **Rust, C++ and Java**
 
 <p align="left">
 </p>
